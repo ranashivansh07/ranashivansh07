@@ -19,4 +19,4 @@ I'm a passionate developer focused on building interactive web applications and 
 
 ## 📫 Connect with Me
 - **Portfolio:** [Your Website Link Here]
-- **LinkedIn:** [Your LinkedIn Profile Link Here]
+- **LinkedIn:** [https://www.linkedin.com/in/rana-shivansh-a92b5a288/?isSelfProfile=true]
