@@ -6,6 +6,7 @@ Final-year **B.Tech Computer Science student** at JMIT Radaur, passionate about 
 
 ## 🚀 About Me
 
+- 🌐 **Portfolio:** [ranashivansh07.github.io/rana-shivansh-portfolio](https://ranashivansh07.github.io/rana-shivansh-portfolio/)
 - 💻 **Full-Stack Developer:** Proficient in the **MERN Stack** (MongoDB, Express.js, React, Node.js), Bootstrap, and Tailwind CSS.
 - ⚙️ **Core CS & Problem Solving:** Solid foundation in **C++, Java, Data Structures & Algorithms, and OOPs**.
 - 🌟 **Selected Recognition:** Selected for the **Google Student Ambassador Program** (Dec 2025) and an **AWS Data Center Tour** with Amazon Future Engineer / YuWaah (UNICEF, Aug 2026).
@@ -82,7 +83,7 @@ Final-year **B.Tech Computer Science student** at JMIT Radaur, passionate about 
 
 ## 📫 Connect with Me
 
-- 🌐 **Portfolio:** [(github.io/rana-shivansh-portfolio/)]((https://ranashivansh07.github.io/rana-shivansh-portfolio/))
+- 🌐 **Portfolio:** [ranashivansh07.github.io/rana-shivansh-portfolio](https://ranashivansh07.github.io/rana-shivansh-portfolio/)
 - 📧 **Email:** [ranashivansh360@gmail.com](mailto:ranashivansh360@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/rana-shivansh-a92b5a288](https://linkedin.com/in/rana-shivansh-a92b5a288)
 - 🐙 **GitHub:** [github.com/ranashivansh07](https://github.com/ranashivansh07)
