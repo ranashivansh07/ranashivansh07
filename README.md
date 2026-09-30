@@ -63,11 +63,11 @@ Final-year **B.Tech Computer Science student** at JMIT Radaur, passionate about 
 
 ## 🏆 Key Achievements & Training
 
-- 🎒 **Google Student Ambassador** | Google Gemini / Communique (Dec 2025)[cite: 3]
-- ☁️ **AWS Data Center Tour Selected Candidate** | Amazon Future Engineer / YuWaah (UNICEF, Aug 2026)[cite: 3]
-- 📜 **Full Stack Web Development Certification** | Internshala[cite: 3]
-- 💼 **MERN Stack Development Trainee** | Sortiq Solutions, Mohali (Jun 2026 – Sept 2026)[cite: 3]
-- 💼 **Java Development Trainee** | Contriverz, Mohali (Jul 2024 – Aug 2024)[cite: 3]
+- 🎒 **Google Student Ambassador** | Google Gemini / Communique (Dec 2025)
+- ☁️ **AWS Data Center Tour Selected Candidate** | Amazon Future Engineer / YuWaah (UNICEF, Aug 2026)
+- 📜 **Full Stack Web Development Certification** | Internshala
+- 💼 **MERN Stack Development Trainee** | Sortiq Solutions, Mohali (Jun 2026 – Sept 2026)
+- 💼 **Java Development Trainee** | Contriverz, Mohali (Jul 2024 – Aug 2024)
 
 ---
 
@@ -82,6 +82,7 @@ Final-year **B.Tech Computer Science student** at JMIT Radaur, passionate about 
 
 ## 📫 Connect with Me
 
-- 📧 **Email:** [ranashivansh360@gmail.com](mailto:ranashivansh360@gmail.com)[cite: 3]
-- 💼 **LinkedIn:** [linkedin.com/in/rana-shivansh-a92b5a288](https://linkedin.com/in/rana-shivansh-a92b5a288)[cite: 3]
-- 🌐 **GitHub:** [github.com/ranashivansh07](https://github.com/ranashivansh07)[cite: 3]
+- 🌐 **Portfolio:** [My Portfolio Website URL Here](https://your-portfolio-link.com)
+- 📧 **Email:** [ranashivansh360@gmail.com](mailto:ranashivansh360@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/rana-shivansh-a92b5a288](https://linkedin.com/in/rana-shivansh-a92b5a288)
+- 🐙 **GitHub:** [github.com/ranashivansh07](https://github.com/ranashivansh07)
